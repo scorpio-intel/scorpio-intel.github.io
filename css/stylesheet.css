@@ -4,5 +4,6 @@
         url('Univers-Extended.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+    text-rendering:optimizeLegibility;
 }
 
