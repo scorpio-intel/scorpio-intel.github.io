@@ -109,7 +109,8 @@ textarea {
 }
 
 .body {
-  margin-left: 100px
+  margin-left: 100px;
+  max-width: 600px
 }
 
 .hidden,
