@@ -54,6 +54,11 @@ p {
   color: #315284;
 }
 
+img {
+  width:100%;
+  max-width:600px;
+}
+
 /*
  * Remove the gap between audio, canvas, iframes,
  * images, videos and the bottom of their containers:
