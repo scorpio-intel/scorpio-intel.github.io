@@ -105,7 +105,8 @@ textarea {
  */
 
 .header {
-  margin: 20px
+  margin: 20px;
+  max-width: 600px
 }
 
 .body {
