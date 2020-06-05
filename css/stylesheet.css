@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'Univers Extended';
-    src: url('Univers-Extended.woff2') format('woff2'),
-        url('Univers-Extended.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    text-rendering:optimizeLegibility;
-}
-
