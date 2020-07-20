@@ -1,5 +1,9 @@
-# www.robotstxt.org/
+User-Agent: *
+Disallow: 
+Disallow: /_includes/
+Disallow: /_drafts/
+Disallow: /_config.yml
+Disallow: /_layouts/
+Disallow: /_plugins/
 
-# Allow crawling of all content
-User-agent: *
-Disallow:
+Sitemap: https://fullit.github.io/sitemap.txt
