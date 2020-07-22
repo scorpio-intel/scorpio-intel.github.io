@@ -30,7 +30,7 @@ markdown: kramdown
 
 ![Shanghai Composite Index adjustment](/assets/images/cotm1/1.jpg "A Share Market adjustment")
 
-The A-share market has undergone a major adjustment with the Shanghai Composite Index falling by 5% for the week – the largest weekly drop in nearly five months. The [SZSE Component Index](https://capital.com/szse-component-index-definition), SME Board Index and GEM (Growth Enterprise Market) Index all fell more than 4%. The transaction volume also shrank and dropped to 1116.1 billion RMB on Friday, a substantial decrease of nearly 400 billion yuan from the previous trading day.
+The A-share market has undergone a major adjustment with the Shanghai Composite Index falling by 5% for the week – the largest weekly drop in nearly five months. The [SZSE Component Index](https://capital.com/szse-component-index-definition), SME Board Index and GEM (Growth Enterprise Market) Index all fell more than 4%.  Transaction volume also shrank and dropped to 1116.1 billion RMB on Friday, a substantial decrease of nearly 400 billion yuan from the previous trading day.
 
 ---
 ![SMIC IPO](/assets/images/cotm1/2.jpg "SMIC Sci-Tech")
