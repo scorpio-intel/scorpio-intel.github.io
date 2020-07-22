@@ -20,7 +20,7 @@ markdown: kramdown
 ---
 {% include JB/setup %}
 
-We bring to you 5 key trends from this weeks China news report.
+5 key trends from China this week.
 
 ✏️ Jessica Yu
 
@@ -30,30 +30,30 @@ We bring to you 5 key trends from this weeks China news report.
 
 ![Shanghai Composite Index adjustment](/assets/images/cotm1/1.jpg "A Share Market adjustment")
 
-China's A-share market has undergone a major adjustment with the Shanghai Composite Index falling by 5% for the entire week, the largest weekly drop in nearly five months. [SZSE Component Index](https://capital.com/szse-component-index-definition), SME (Small and Medium Enterprise) board Index and GEM (growth enterprise market) Index all dropped over 4%. The transaction volume also shrank gradually and dropped to 1116.1 billion RMB on Friday, which was a substantial decrease amounting to 400 billion yuan from the previous trading day.
+The A-share market has undergone a major adjustment with the Shanghai Composite Index falling by 5% for the week – the largest weekly drop in nearly five months. The [SZSE Component Index](https://capital.com/szse-component-index-definition), SME Board Index and GEM (Growth Enterprise Market) Index all fell more than 4%. The transaction volume also shrank and dropped to 1116.1 billion RMB on Friday, a substantial decrease of nearly 400 billion yuan from the previous trading day.
 
 ---
 ![SMIC IPO](/assets/images/cotm1/2.jpg "SMIC Sci-Tech")
 
-On July 16, the chip manufacturing giant [SMIC](http://www.smics.com/en/) (Semiconductor Manufacturing International Corporation) listed on the Sci-Tech innovation board. Its IPO price was set at 27.46 yuan, with the first day's closing price rising 201.97% to 82.92 yuan. The company reported a turnover of 47.97 billion, which accounted for nearly 50% of the turnover of all stocks listed on the Sci-Tech innovation board, and ranked among the fourth largest single stock transaction value in the history of the A-share market.
+On July 16, the chip manufacturing giant [SMIC](http://www.smics.com/en/) (Semiconductor Manufacturing International Corporation) listed on the Sci-Tech Innovation Board. Issued at 27.46 yuan, the stock rose 201.97% to 82.92 yuan by the end of its first day trading. Trading turnover reached 47.97 billion yuan, accounting for nearly 50% of the Sci-Tech Innovation Board’s turnover for the day and ranking it among the four largest single stock transaction values in the history of the A-share market.
 
 ---
 ![Cambricon Technologies Corporation Limited IPO](/assets/images/cotm1/3.jpg "Cambricon Technologies Corporation Limited")
 
-Cambricon Technologies Corporation Limited will be listed on the Sci-Tech innovation board on July 20. The issue price is 64.39 yuan per share. After the issuance, the company's market value will be 25.762 billion yuan. The number of unrestricted circulating shares at the beginning of the listing is 31,104,785 shares, accounting for 7.77% of the total share capital after this issuance.
+Cambricon Technologies Corporation Limited will be listed on the Sci-Tech Innovation Board on July 20. The share’s issue price is 64.39 yuan per share and the issue will bring the company’s total capital stock up to 400.1 million shares. After the issuance, the company's market value will reach 25.762 billion yuan. The number of unrestricted circulating shares at the beginning of the listing is 31,104,785 shares, accounting for 7.77% of total share capital.
 
-The cooperation partners of the strategic placement include 4 investors: Lenovo (Beijing), Midea, OPPO and CITIC Securities. In addition, there have been many well-known institutions in the previous public offerings, such as Ali Ventures and iFLYTEK.
+The placement will see four strategic investors – Lenovo, Midea Holdings, OPPO Guangdong Mobile Communications and CITIC Securities Investment – join the many well-known names that have participated in previous funding rounds, such as Ali Ventures and iFLYTEK.
 
 ---
 ![China Unicorn Enterprise TOP 100](/assets/images/cotm1/4.jpg "China Unicorn Enterprise TOP 100")
 
-According to the 2020 China Unicorn Enterprise TOP 100 list released by iiMedia Research, it shows that Ant Financial Services Group, ByteDance, Xiaoju Technology, Lufax, Cainiao Network Technology, Kuaishou Technology, SZ DJI Innovations, We Bank, Bitmain, and Hut information rank among the top 10. The companies are selected from unlisted and independently operating corporate enterprises with a valuation of more than 1 billion US dollars.
+Ant Financial Services Group, ByteDance, Xiaoju Technology, Lufax, Cainiao Network Technology, Kuaishou Technology, SZ DJI Innovations, We Bank, Bitmain, and Hut Information have all ranked among the top 10 of the 2020 China Unicorn Enterprise TOP100 list released by iiMedia Research. The companies are selected from unlisted and independently operating corporate enterprises with a valuation of more than $1bn US.
 
-In terms of regional distribution, more than 80% of the TOP100 unicorn companies are clustered in Beijing, Shanghai, Shenzhen and Hangzhou, and the Matthew effect is becoming more and more significant.
+In terms of regional distribution, more than 80% of the TOP100 unicorn companies are clustered in Beijing, Shanghai, Shenzhen and Hangzhou, demonstrating the increasing significance of the Matthew Effect.
 
 ---
 ![Tencent small store](/assets/images/cotm1/5.jpg "Tencent small store")
 
-Tencent recently announced that the WeChat small store has officially launched. According to reports, the WeChat small store is a new capability provided by the small program team to help merchants quickly generate small programs for selling goods at zero cost. The small store provides functions such as product information release information, merchandise transactions and live broadcasts. It fully gives merchants' independent store operation functions.
+Tencent recently announced that the WeChat Small Store has officially launched. The WeChat Small Store is a new capability that helps merchants quickly generate small applications for selling goods at zero cost. The Small Store supports product information, payment transactions and live streaming, fully supporting independent merchants' store operations. 
 
-Currently, WeChat's monthly active user count is just under 1.2 billion. This is a great vertically integrated opportunity for WeChat to capitalise on their users.
+Currently, WeChat's monthly turnover is close to 1.2bn yuan, illustrating the power of its ability to combine social media, e-commerce and live stream broadcasting.
