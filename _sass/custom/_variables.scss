@@ -1,0 +1,29 @@
+$primary: #2E5285; // Scorpio
+$background: #393939; // neutral grey
+$font-family-sans-serif: "Montserrat";
+
+li.nav-item a:hover { color: $primary !important; }
+
+.hero {
+  background: $background;
+  width: 100vw;
+  height: 30vw;
+  min-height: 300px;
+  max-height: 500px;
+}
+
+.footer {
+  background: $background
+}
+
+#footer-image {
+  opacity: 0.4;
+  filter: alpha(opacity=40); /* msie */
+  background-color: #000;
+}
+
+.club-divider {
+  background: $primary;
+  height: 2px;
+  width: 80px;
+}

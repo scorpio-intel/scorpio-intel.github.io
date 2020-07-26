@@ -2,99 +2,38 @@
 layout: index
 title: Scorpio Intel
 tagline: Everything is changing.
-css: 
-js: sliders.js
 keywords: scorpio intel, bootstrap, finance, intelligence, information, knowledge
-canonical: https://scorpio-intel.github.io
+canonical: https://scorpiointel.com
 ---
 {% include JB/setup %}
-<!-- Content Area Start -->
-<div id="content">
-  <!-- sliders -->
-  <div id="sliders">
-    <div class="full-width">
-      <!-- light slider -->
-        <div class="view" style="background-image: url({{ BASE_PATH }}/assets/images/bg-1.jpg); background-repeat: no-repeat; background-size: cover; background-position: center center;">
-          <div style="padding: 10%">
-          <div class="text-center">
-          <h3 class="slide-title animated fadeInDown"><span class="text-primary">Scorpio Intelligence </span></h3>
-          <br>
-          <h5 class="slide-text animated fadeIn" style="color: white">
-            Everything is changing. 
-            <br>Stay ahead of the curve; access the Scorpio Intelligence alert centre and knowledge sharing community.
-            <br>Apply for community membership:
-          </h5>
-          <br>
-          <a href="https://scorpiointel.typeform.com/to/fMyy7o" class="btn btn-lg btn-default-filled animated fadeInUp">JOIN</a>
-          </div>
-          </div>
-      </div>
-    </div>
+
+{% include themes/bootstrap/hero.html %}
+
+{% comment %} <br> {% endcomment %}
+<br>
+
+{% comment %} {% include themes/bootstrap/section-header.html title="Features" %} {% endcomment %}
+
+<div class="container-fluid py-4">
+  <div class="row px-auto mx-auto" style="max-width: 1000px">
+    {% include themes/bootstrap/card.html card-title="A community of experts" card-text="Join and connect with domain experts from around the world and discuss the trends that are shaping our future." %}
+    {% include themes/bootstrap/card.html card-title="21+ critical themes" card-text="Stay up to date with markets, crypto, geo-political developments, DeFi and other key global themes." %}
+    {% include themes/bootstrap/card.html card-title="Fast and opinion free" card-text="Don’t let mainstream news tell you what to think. Get unfiltered, real-time alerts on the themes that matter." %}
   </div>
-  <!-- End sliders -->
-                    
-        
-  <div class="mb-60"></div>
-  <div id="features" class="container">
-  <!-- SERVICES -->
-    <div class="row">
-      <!-- Start Service Icon 1 -->
-      <div class="col-md-4 col-sm-6">
-        <div class="service-box">
-          <div class="service-content">
-            <h4><a href="#">A community of experts</a></h4>
-            <p>
-              Join and connect with domain experts from around the world and discuss the trends that are shaping our future.
-            </p>
-          </div>
-        </div>
-      </div>
-      <!-- End Service Icon 1 -->
-
-      <!-- Start Service Icon 2 -->
-      <div class="col-md-4 col-sm-6">
-        <div class="service-box">
-          <div class="service-content">
-            <h4><a href="#">21+ critical themes</a></h4>
-            <p>
-              Stay up to date with markets, crypto, geo-political developments, DeFi and other key global themes.
-            </p>
-          </div>
-        </div>
-      </div>
-      <!-- End Service Icon 2 -->
-
-      <!-- Start Service Icon 3 -->
-      <div class="col-md-4 col-sm-6">
-        <div class="service-box">
-          <div class="service-content">
-            <h4><a href="#">Fast and opinion free</a></h4>
-            <p>
-              Don’t let mainstream news tell you what to think. Get unfiltered, real-time alerts on the themes that matter.
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="mb-60"></div>
-
-  <!-- posts carousel -->
-  <section id="blog">
-    <div class="container">
-      <div id="posts-carousel" class="owl-carousel">
-        {% for post in site.posts %}
-        <div class="blog-block blog block carousel-post">
-          {% if post.img %}
-          <img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="">
-          {% endif %}
-          <h5>{{ post.title }}</h5>
-          <p>{{ post.excerpt }}</p>
-          <a href="{{ BASE_PATH }}{{ post.url }}">Full Article <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-  </section>
-<!-- Content area end -->
 </div>
+
+{% comment %} {% include themes/bootstrap/section-header.html title="Latest Blog Posts" %}
+
+<div class="container py-4">
+  <div class="w-100 h-100 row">
+    <div class="col px2">
+    {% include themes/bootstrap/card.html card-title="A community of experts" card-text="Join and connect with domain experts from around the world and discuss the trends that are shaping our future." %}
+    </div>
+    <div class="col px2">
+    {% include themes/bootstrap/card.html card-title="21+ critical themes" card-text="Stay up to date with markets, crypto, geo-political developments, DeFi and other key global themes." %}
+    </div>
+    <div class="col px2">
+    {% include themes/bootstrap/card.html card-title="Fast and opinion free" card-text="Don’t let mainstream news tell you what to think. Get unfiltered, real-time alerts on the themes that matter." %}
+    </div>
+  </div>
+</div>  {% endcomment %}

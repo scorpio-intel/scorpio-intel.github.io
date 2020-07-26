@@ -1,6 +1,19 @@
----
-theme :
-  name : Grads
----
-{% include JB/setup %}
-{% include themes/bootstrap/default.html %}
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scorpio Intelligence</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+  </head>
+  <body>
+  <!--Home page style--> 
+  {% include themes/bootstrap/nav-bar.html %}  
+  {{ content }}
+  <br />
+  {% include themes/bootstrap/footer.html %}
+  </body>
+</html>
