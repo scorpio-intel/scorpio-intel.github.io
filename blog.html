@@ -10,31 +10,21 @@ canonical: https://scorpiointel.com
 <br>
 <br>
 
-{% include themes/bootstrap/section-header.html title="Coming Soon" %}
+{% include themes/bootstrap/section-header.html title="Latest Blog Posts" %}
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<div class="container-fluid py-4">
+  <div class="row px-auto mx-auto" style="max-width: 1000px">
+    {% for post in site.posts %}
+    <div class="col px2">
+      <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="assets/img/cotm/{{ post.img }}" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">{{ post.title }}</h5>
+          <p class="card-text">{{ post.excerpt }}</p>
+          <a href="{{ post.url }}" class="btn btn-primary">Read</a>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>

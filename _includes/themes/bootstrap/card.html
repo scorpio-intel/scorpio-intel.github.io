@@ -1,7 +1,8 @@
-<div class="col-sm-4" style="max-width: 350px;">
-  <div class="py-4">
-    <h4 class="card-title">{{ include.card-title }}</h4>
-    <p class="card-text text-dark">{{ include.card-text }}</p>
-    {% comment %} <a href="{{ card.destination }}" class="btn btn-primary">{{ card.destination_title }}</a> {% endcomment %}
+<div class="card" style="width: 18rem;">
+  <img class="card-img-top" src="..." alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">{{ include.title }}</h5>
+    <p class="card-text">{{ include.text }}</p>
+    <a href="#" class="btn btn-primary">{{ include.link }}</a>
   </div>
 </div>
