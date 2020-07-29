@@ -64,7 +64,7 @@ The National Petroleum and natural gas pipe network Group was formally establish
 As of 23rd July, the expansion of 5G mobile phones has exceeded 86.23 million in China. It is expected that this number will exceed 100 million by the end of this year. In terms of network construction, China Mobile, China Unicom and China Telecom had built and opened more than 400,000 5G base stations nationwide by the end of June. According to the expert, China has opened an average of more than 15,000 5G base stations every week. According to this calculation, by the end of the year, the number of 5G base stations in China may exceed 700,000 stations.
 
 ---
-![Flood in China]({{ site.url }}/assets/img/cotm2.jpg "Flood")
+![Flood in China]({{ site.url }}/assets/img/cotm002.jpg "Flood")
 
 On the evening of the 23rd, the No. 2 flood of the Yangtze River in 2020 quietly passed through Wuhan. However, affected by the heavy rainfall Upper reaches of Yangtze River, the No. 3 flood of 2020 is taking shape and the entire section of the middle and lower reaches has exceeded alarmed water level. The flood control situation is still severe.
 
