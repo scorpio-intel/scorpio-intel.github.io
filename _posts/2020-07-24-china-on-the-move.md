@@ -8,6 +8,7 @@ img-mobile :
 img2 : 
 img3 : 
 author : Jessica Yu
+title: "China on the Move #2"
 title2 : 5 key trends from China this week
 title3 : 
 css: 
