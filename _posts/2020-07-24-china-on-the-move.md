@@ -3,7 +3,7 @@ layout: post
 category : china on the move
 tagline: "China on the Move #2"
 tags : [china, news, intel]
-img : cotm001.jpg
+img : cotm002.jpg
 img-mobile : 
 img2 : 
 img3 : 
