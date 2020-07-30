@@ -12,21 +12,20 @@ canonical: https://scorpiointel.com
 
 {% include themes/bootstrap/section-header.html title="The Latest" %}
 
-<div class="container-fluid py-4">
+<div class="container-fluid py-4" style="background-color: #F7F7F7">
   <div class="row px-auto mx-auto" style="max-width: 1000px">
     {% for post in site.posts %}
-    <a href="{{ post.url }}" class="blog-card" style="text-decoration: none;">
-      <div class="col px2 activator">
-        <div class="card" style="width: 18rem;">
+    <a href="{{ post.url }}" style="text-decoration: none;">
+      <div class="col px2">
+        <div class="activator" style="width: 18rem; background-color: white;">
           <img class="card-img-top" src="{{ site.url }}/assets/img/{{ post.img }}" alt="Card image cap">
           <div class="card-body">
             <h4 class="card-title">{{ post.title }}</h4>
             <p class="card-text">{{ post.excerpt }}</p>
-            
           </div>
+          <div class="hide"></div>
         </div>
       </div>
-      <div class="hide"></div>
     </a>
     {% endfor %}
   </div>
