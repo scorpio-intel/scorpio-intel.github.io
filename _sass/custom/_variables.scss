@@ -27,3 +27,19 @@ li.nav-item a:hover { color: $primary !important; }
   height: 2px;
   width: 80px;
 }
+
+.card {
+  color: #404040;
+}
+
+div.hover-red {
+  display: none;
+}
+
+a.blog-card:hover + div {
+  display: block;
+}
+
+h3 {
+  color: #404040;
+}

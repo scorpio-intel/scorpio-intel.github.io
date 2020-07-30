@@ -24,3 +24,5 @@ JB :
 
 bootstrap:
   assets: true
+
+excerpt_separator: <!--more-->

@@ -17,13 +17,11 @@ bgcolor: ff5a71
 keywords: china, news, intel, move
 canonical: https://scorpiointel.com/blog
 markdown: kramdown
+excerpt_separator: <!--more-->
 
 ---
-{% include JB/setup %}
 
 5 key trends from China this week.
-
-✏️ Jessica Yu
 
 <!--more-->
 
