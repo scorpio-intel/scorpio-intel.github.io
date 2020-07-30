@@ -21,7 +21,7 @@ canonical: https://scorpiointel.com
           <img class="card-img-top" src="{{ site.url }}/assets/img/{{ post.img }}" alt="Card image cap">
           <div class="card-body">
             <h4 class="card-title">{{ post.title }}</h4>
-            <p class="card-text">{{ post.excerpt }}</p>
+            {{ post.excerpt }}
           </div>
           <div class="hide"></div>
         </div>
@@ -30,3 +30,5 @@ canonical: https://scorpiointel.com
     {% endfor %}
   </div>
 </div>
+
+<div class="container-fluid py-4" style="background-color: #F7F7F7"></div>

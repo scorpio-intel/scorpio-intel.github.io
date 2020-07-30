@@ -1,6 +1,7 @@
 $primary: #2E5285; // Scorpio
 $background: #393939; // neutral grey
 $gray-900: #404040;
+$gray-500: #979797;
 $font-family-sans-serif: "Montserrat";
 
 li.nav-item a:hover { color: $primary !important; }
@@ -53,7 +54,7 @@ li.nav-item a:hover { color: $primary !important; }
 }
 
 .card-body > p {
-  color: $gray-900 !important;
+  color: $gray-500 !important;
 }
 
 .card-title {
