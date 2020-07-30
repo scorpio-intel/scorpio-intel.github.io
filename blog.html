@@ -21,7 +21,8 @@ canonical: https://scorpiointel.com
           <img class="card-img-top" src="{{ site.url }}/assets/img/{{ post.img }}" alt="Card image cap">
           <div class="card-body">
             <h4 class="card-title">{{ post.title }}</h4>
-            {{ post.excerpt }}
+            <p>{{ post.excerpt }}</p>
+            <p class="mb-0">{{ post.date | date: "%-d %B %Y" }}</p>
           </div>
           <div class="hide"></div>
         </div>
