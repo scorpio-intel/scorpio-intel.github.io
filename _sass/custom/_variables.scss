@@ -32,12 +32,24 @@ li.nav-item a:hover { color: $primary !important; }
   color: #404040;
 }
 
-div.hover-red {
-  display: none;
+.hide {
+  opacity: 0;
+  background-color: $primary;
+  min-height: 4px;
 }
 
-a.blog-card:hover + div {
-  display: block;
+.activator:hover > .hide {
+  opacity: 1;
+}
+
+.filter {
+  background-color: $primary;
+  
+  opacity: 0;
+}
+
+.filter:hover {
+  opacity: 1;
 }
 
 h3 {

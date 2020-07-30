@@ -16,7 +16,7 @@ canonical: https://scorpiointel.com
   <div class="row px-auto mx-auto" style="max-width: 1000px">
     {% for post in site.posts %}
     <a href="{{ post.url }}" class="blog-card" style="text-decoration: none;">
-      <div class="col px2">
+      <div class="col px2 activator">
         <div class="card" style="width: 18rem;">
           <img class="card-img-top" src="{{ site.url }}/assets/img/{{ post.img }}" alt="Card image cap">
           <div class="card-body">
@@ -26,7 +26,7 @@ canonical: https://scorpiointel.com
           </div>
         </div>
       </div>
-      <div class="row px-0 mx-0 hover-red" style="min-height: 10px"></div>
+      <div class="hide"></div>
     </a>
     {% endfor %}
   </div>
