@@ -10,21 +10,24 @@ canonical: https://scorpiointel.com
 <br>
 <br>
 
-{% include themes/bootstrap/section-header.html title="Latest Blog Posts" %}
+{% include themes/bootstrap/section-header.html title="The Latest" %}
 
 <div class="container-fluid py-4">
   <div class="row px-auto mx-auto" style="max-width: 1000px">
     {% for post in site.posts %}
-    <div class="col px2">
-      <div class="card" style="width: 18rem;">
-        <img class="card-img-top" src="{{ site.url }}/assets/img/{{ post.img }}" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title">{{ post.title }}</h5>
-          <p class="card-text">{{ post.excerpt }}</p>
-          <a href="{{ post.url }}" class="btn btn-primary">Read</a>
+    <a href="{{ post.url }}" class="blog-card" style="text-decoration: none;">
+      <div class="col px2">
+        <div class="card" style="width: 18rem;">
+          <img class="card-img-top" src="{{ site.url }}/assets/img/{{ post.img }}" alt="Card image cap">
+          <div class="card-body">
+            <h4 class="card-title">{{ post.title }}</h4>
+            <p class="card-text">{{ post.excerpt }}</p>
+            
+          </div>
         </div>
       </div>
-    </div>
+      <div class="row px-0 mx-0 hover-red" style="min-height: 10px"></div>
+    </a>
     {% endfor %}
   </div>
 </div>
