@@ -2,6 +2,7 @@ $primary: #2E5285; // Scorpio
 $background: #393939; // neutral grey
 $gray-900: #404040;
 $gray-500: #979797;
+$gray-100: #F7F7F7;
 $font-family-sans-serif: "Montserrat";
 
 li.nav-item a:hover { color: $primary !important; }
@@ -59,4 +60,16 @@ li.nav-item a:hover { color: $primary !important; }
 
 .card-title {
   color: $gray-900 !important;
+}
+
+.blog-title {
+  background: $gray-100;
+  width: 100vw;
+  height: 30vw;
+  min-height: 300px;
+  max-height: 500px;
+}
+
+.blog-page img {
+  max-width: 600px;
 }

@@ -25,8 +25,7 @@ excerpt_separator: <!--more-->
 
 <!--more-->
 
-# China on the move
-
+---
 ![Shanghai Composite Index adjustment]({{ site.url }}/assets/img/cotm1/1.jpg "A Share Market adjustment")
 
 The A-share market has undergone a major adjustment with the Shanghai Composite Index falling by 5% for the week – the largest weekly drop in nearly five months. The [SZSE Component Index](https://capital.com/szse-component-index-definition), SME Board Index and GEM (Growth Enterprise Market) Index all fell more than 4%.  Transaction volume also shrank and dropped to 1116.1 billion RMB on Friday, a substantial decrease of nearly 400 billion yuan from the previous trading day.

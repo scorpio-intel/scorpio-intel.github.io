@@ -25,8 +25,7 @@ We bring to you 5 key trends from this weeks China news report.
 
 <!--more-->
 
-# China on the move
-
+---
 ![SAIC Motor HK terminated the transaction with UCAR]({{ site.url }}/assets/img/cotm2/1.jpg "UCAR")
 
 Previously, SAIC Motor Hong Kong signed a tender offer with UCAR. The company intended to acquire no more than 610 million shares of UCAR’s subsidiary Car Inc. However, SAIC Motor announced on 20th July that its subsidiary SAIC Motor HK decided to terminate the transaction mainly due to disagreement of the future operation of Car Inc.

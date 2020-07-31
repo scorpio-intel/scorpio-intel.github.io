@@ -18,7 +18,9 @@
   
   {% include themes/bootstrap/nav-bar.html %}
 
-  <div class="container-fluid py-4" style="max-width: 1000px">
+  {% comment %} {% include themes/bootstrap/blog-title.html title=page.title date=page.date %} {% endcomment %}
+
+  <div class="container-fluid py-4 blog-page" style="max-width: 700px">
     {% include themes/bootstrap/post.html %}
   </div>
   
