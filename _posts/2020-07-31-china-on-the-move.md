@@ -28,6 +28,7 @@ We bring to you 5 key trends from this weeks China news report.
 ![The Digital Currency Institute cooperates with Internet company]({{ site.url }}/assets/img/cotm3/1.jpg "DECP")
 
 The Digital Currency Institute of the Central Bank has reached a strategic cooperation with DiDi to jointly research and explore innovation and application of Digital Currency Electronic Payment(DCEP). This is also the first time that the Currency Institute cooperates with an Internet company. The Digital Currency Institute has also contacted companies such as Bilibili, Meituan, which means that DCEP may be tested and run in the market to explore applications in more scenarios.
+
 ---
 ![Tesla in Chinese market]({{ site.url }}/assets/img/cotm3/2.jpg "Tesla")
 
