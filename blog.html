@@ -22,7 +22,7 @@ canonical: https://scorpiointel.com
           <div class="card-body">
             <h4 class="card-title">{{ post.title }}</h4>
             <p>{{ post.excerpt }}</p>
-            <p class="mb-0">{{ post.date | date: "%-d %B %Y" }}</p>
+            <p class="mb-0">{{ post.date | date: "%d/%m/%Y" }} | {{ post.author }}</p>
           </div>
           <div class="hide"></div>
         </div>
