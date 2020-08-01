@@ -23,7 +23,7 @@ canonical: https://scorpiointel.com
 
 <div class="container-fluid py-4" style="background-color: #F7F7F7">
   <div class="row px-auto mx-auto" style="max-width: 1000px">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:3 %}
     <a href="{{ post.url }}" style="text-decoration: none;">
       <div class="col px2">
         <div class="activator" style="width: 18rem; background-color: white;">
